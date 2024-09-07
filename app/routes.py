@@ -1,7 +1,7 @@
 from flask import render_template, request, abort
 from app import app
 
-SECRET_KEY = 'hackedbyz!'
+SECRET_KEY = 'changethis!'
 
 @app.route('/')
 def index():
