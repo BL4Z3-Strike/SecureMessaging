@@ -1,0 +1,17 @@
+venv/
+.env/
+
+*.pyc
+*.pyo
+__pycache__/
+
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+*.log
+*.tmp
+
+config.py
+*.env
